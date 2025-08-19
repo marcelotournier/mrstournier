@@ -1,0 +1,13 @@
+# mac os x
+.DS_Store
+
+# javascript, css, html static page crap
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# cloudflare pages
+.vercel/
